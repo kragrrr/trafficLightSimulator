@@ -4,7 +4,4 @@ This is a Python program that simulates a traffic lights system. It uses the `ti
 
 ## Usage
 
-To run the simulation, simply execute the `simulate_traffic_lights()` function.
-
-```python3 trafficLight.py
-```
+To run the simulation, simply execute the program.
